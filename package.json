@@ -1,0 +1,8 @@
+{
+  "name": "software-testing-assignment-part2",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no tests  yet \" && exit 1"
+  },
+}
